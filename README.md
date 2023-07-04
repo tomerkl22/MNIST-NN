@@ -13,7 +13,5 @@ The implementation emphasizes clarity and readability of the code, aiming to pro
 Instruction: 
 
 1. Clone this repository
-2. unzip the "MNIST-data.zip" to the same folder as main.py
-3. run the main.py
-
-
+2. Unzip the "MNIST-data.zip" to the same folder as main.py
+3. Run main.py
