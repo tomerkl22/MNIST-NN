@@ -10,5 +10,10 @@ The code also includes a prediction function, which makes predictions by feeding
 
 The implementation emphasizes clarity and readability of the code, aiming to provide an educational resource for those who want to delve into the inner workings of neural networks without the abstraction of higher-level libraries.
 
+Instruction: 
+
+1. Clone this repository
+2. unzip the "MNIST-data.zip" to the same folder as main.py
+3. run the main.py
 
 
