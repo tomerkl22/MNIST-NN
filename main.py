@@ -1,6 +1,5 @@
 import numpy as np
 from sklearn.model_selection import train_test_split
-import time
 
 class NeuralNetwork:
     def __init__(self, learning_rate=0.02):
